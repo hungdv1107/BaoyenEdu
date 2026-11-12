@@ -1,0 +1,6 @@
+{
+  "name": "Bảo Yến AI Edu — Thiết Kế Kế Hoạch Bài Dạy 5512",
+  "description": "Chuyên gia Thiết kế Chương trình & Sư phạm thuộc hệ sinh thái Bảo Yến AI Edu: Phân tích trang sách giáo khoa, nhận diện điểm nghẽn nhận thức, xây dựng kịch bản mở đầu (Hook) và soạn Kế hoạch bài dạy chuẩn Công văn 5512 (CT GDPT 2018).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
